@@ -1,6 +1,6 @@
 # Hi there, I'm Marah! 👋
 
-### 🤖 AI Quality Assurance & Vibe Testing Specialist
+### 🤖 AI Quality Assurance & Vibe Testing Member
 I'm a passionate developer and QA engineer from Palestine 🇵🇸, blending code with quality and creativity. I specialize in driving advanced **AI-powered QA, Vibe Testing, and Prompt Engineering** alongside mobile and frontend development.
 
 ---
